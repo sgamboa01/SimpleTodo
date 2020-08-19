@@ -34,9 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 There were a few challenges that I faced while working on this project. The first was that I needed to update my version of Android studio since the 
-version I was orignially using was causing issues with my files. The udated verion then lead to other minor issues. 
-I kept getting a "Private interface methods are only supported starting with Android N" error message when running my app. I fixed this issue by adding compile options
-in my build.gradle. 
+version I was orignially using was causing issues with my files. The udated verion then led to other minor issues. 
+I kept getting a "Private interface methods are only supported starting with Android N" error message when attempting to run my app. I fixed this issue by adding compile options in my build.gradle. 
 
 ## License
 
